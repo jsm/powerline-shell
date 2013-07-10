@@ -14,7 +14,10 @@ SEGMENTS = [
     'username',
 
 # Show the machine's hostname. Mostly used when ssh-ing into other machines
-    'hostname',
+#    'hostname',
+
+# Show the current ruby version
+    'ruby_version',
 
 # Show the current directory. If the path is too long, the middle part is
 # replaced with ellipsis ('...')
@@ -41,4 +44,4 @@ SEGMENTS = [
 ]
 
 # Change the colors used to draw individual segments in your prompt
-THEME = 'default'
+THEME = 'jsm'
