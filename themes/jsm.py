@@ -5,8 +5,8 @@ class Color:
     HOSTNAME_FG = 250
     HOSTNAME_BG = 238
 
-    RUBY_VERSION_FG = 255
-    RUBY_VERSION_BG = 167
+    RVM_PROMPT_FG = 255
+    RVM_PROMPT_BG = 167
 
     PATH_BG = 237  # dark grey
     PATH_FG = 250  # light grey

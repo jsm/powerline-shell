@@ -17,7 +17,7 @@ SEGMENTS = [
 #    'hostname',
 
 # Show the current ruby version
-    'ruby_version',
+    'rvm_prompt',
 
 # Show the current directory. If the path is too long, the middle part is
 # replaced with ellipsis ('...')
